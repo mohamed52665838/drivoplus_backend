@@ -5,6 +5,7 @@ With real-time data streaming from IoT-enabled sensors, Drivo+ keeps an eye on k
 
 Drivo+ also builds a history of your car’s data, provides personalized recommendations, and alerts you about potential maintenance needs—so you’re always one step ahead. Designed to be scalable and secure, the backend seamlessly integrates with the cloud and APIs, making it easy to connect with different automotive systems. Whether you're a car enthusiast or just want peace of mind on the road, Drivo+ helps you take better care of your vehicle.
 </p>
+
 ### setup
 #### step 1: clone the repo
 ```bash
