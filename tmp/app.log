@@ -358,3 +358,22 @@
 2025-02-13 10:10:02,778 - root - INFO - APPLICATION STARTED TEST
 2025-02-13 10:10:02,795 - werkzeug - WARNING -  * Debugger is active!
 2025-02-13 10:10:02,802 - werkzeug - INFO -  * Debugger PIN: 450-813-264
+2025-02-13 11:32:12,129 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-13 11:32:13,061 - root - INFO - APPLICATION STARTED TEST
+2025-02-13 11:32:13,078 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-13 11:32:13,078 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-13 11:34:22,627 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2025 11:34:22] "[31m[1mGET /auth/signin HTTP/1.1[0m" 405 -
+2025-02-13 11:34:33,505 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2025 11:34:33] "[31m[1mPOST /auth/signin HTTP/1.1[0m" 415 -
+2025-02-13 11:35:53,309 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2025 11:35:53] "[31m[1mPOST /auth/signin HTTP/1.1[0m" 401 -
+2025-02-13 11:36:04,230 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2025 11:36:04] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-13 11:36:53,087 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2025 11:36:53] "[31m[1mPOST /auth/signup HTTP/1.1[0m" 400 -
+2025-02-13 11:38:17,379 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2025 11:38:17] "[31m[1mPOST /auth/signup HTTP/1.1[0m" 400 -
+2025-02-13 11:38:48,062 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2025 11:38:48] "[31m[1mPOST /auth/signup HTTP/1.1[0m" 400 -
+2025-02-13 11:39:00,372 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2025 11:39:00] "[31m[1mPOST /auth/signup HTTP/1.1[0m" 409 -
+2025-02-13 11:39:32,077 - apscheduler.scheduler - INFO - Added job "67adcbe38ca4356eb555c02b" to job store "default"
+2025-02-13 11:39:32,078 - root - INFO - USER SIGNED IN
+2025-02-13 11:39:32,079 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2025 11:39:32] "POST /auth/signup HTTP/1.1" 200 -
+2025-02-13 12:09:32,087 - apscheduler.executors.default - INFO - Running job "67adcbe38ca4356eb555c02b (trigger: date[2025-02-13 12:09:32 WAT], next run at: 2025-02-13 12:09:32 WAT)" (scheduled at 2025-02-13 12:09:32.077326+01:00)
+2025-02-13 12:09:32,088 - apscheduler.scheduler - INFO - Removed job 67adcbe38ca4356eb555c02b
+2025-02-13 12:09:32,365 - apscheduler.executors.default - INFO - Job "67adcbe38ca4356eb555c02b (trigger: date[2025-02-13 12:09:32 WAT], next run at: 2025-02-13 12:09:32 WAT)" executed successfully
