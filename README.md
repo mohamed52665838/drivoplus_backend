@@ -2,7 +2,9 @@
 #### Drivo+ is an open source application for car helth care so this is the backend of the application
 ### setup
 #### step 1: clone the repo
+```bash
 git clone [https://github.com/mohamed52665838/driveoplus_backend](https://github.com/mohamed52665838/drivoplus_backend).git
+```
 #### step 2: change directory to repo
 ```bash
 cd driveoplus
