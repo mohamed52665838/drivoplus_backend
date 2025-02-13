@@ -358,3 +358,26 @@
 2025-02-13 10:10:02,778 - root - INFO - APPLICATION STARTED TEST
 2025-02-13 10:10:02,795 - werkzeug - WARNING -  * Debugger is active!
 2025-02-13 10:10:02,802 - werkzeug - INFO -  * Debugger PIN: 450-813-264
+2025-02-13 05:27:26,021 - root - INFO - APPLICATION STARTED TEST
+2025-02-13 05:27:26,199 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-13 05:27:26,199 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-13 05:27:26,219 - werkzeug - INFO -  * Restarting with stat
+2025-02-13 05:27:28,435 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-13 05:27:29,486 - root - INFO - APPLICATION STARTED TEST
+2025-02-13 05:27:29,570 - werkzeug - WARNING -  * Debugger is active!
+2025-02-13 05:27:29,593 - werkzeug - INFO -  * Debugger PIN: 980-531-214
+2025-02-13 05:40:25,327 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-13 05:40:26,617 - root - INFO - APPLICATION STARTED TEST
+2025-02-13 05:40:26,741 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-02-13 05:40:26,742 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-13 05:40:55,721 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2025 05:40:55] "[33mGET / HTTP/1.1[0m" 404 -
+2025-02-13 05:40:55,917 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2025 05:40:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-13 05:41:20,318 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-13 05:41:21,444 - root - INFO - APPLICATION STARTED TEST
+2025-02-13 05:41:21,518 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2025-02-13 05:41:21,523 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-13 05:41:50,903 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2025 05:41:50] "[33mGET / HTTP/1.1[0m" 404 -
+2025-02-13 05:41:51,054 - werkzeug - INFO - 127.0.0.1 - - [13/Feb/2025 05:41:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
