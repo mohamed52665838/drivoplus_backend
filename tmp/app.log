@@ -331,3 +331,30 @@
 2025-02-12 05:09:42,095 - werkzeug - INFO - 192.168.1.14 - - [12/Feb/2025 05:09:42] "POST /auth/signin HTTP/1.1" 200 -
 2025-02-12 05:10:57,470 - werkzeug - INFO - 192.168.1.14 - - [12/Feb/2025 05:10:57] "POST /auth/signin HTTP/1.1" 200 -
 2025-02-12 05:14:04,540 - werkzeug - INFO - 192.168.1.14 - - [12/Feb/2025 05:14:04] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-13 10:01:57,601 - root - INFO - APPLICATION STARTED TEST
+2025-02-13 10:01:57,773 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-13 10:01:57,774 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-13 10:01:57,792 - werkzeug - INFO -  * Restarting with stat
+2025-02-13 10:01:59,414 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-13 10:02:00,509 - root - INFO - APPLICATION STARTED TEST
+2025-02-13 10:02:00,525 - werkzeug - WARNING -  * Debugger is active!
+2025-02-13 10:02:00,536 - werkzeug - INFO -  * Debugger PIN: 450-813-264
+2025-02-13 10:07:30,292 - root - INFO - APPLICATION STARTED TEST
+2025-02-13 10:07:30,471 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-13 10:07:30,471 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-13 10:07:30,490 - werkzeug - INFO -  * Restarting with stat
+2025-02-13 10:07:31,821 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-13 10:07:32,961 - root - INFO - APPLICATION STARTED TEST
+2025-02-13 10:07:32,984 - werkzeug - WARNING -  * Debugger is active!
+2025-02-13 10:07:33,001 - werkzeug - INFO -  * Debugger PIN: 450-813-264
+2025-02-13 10:10:00,439 - root - INFO - APPLICATION STARTED TEST
+2025-02-13 10:10:00,590 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-13 10:10:00,590 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-13 10:10:00,607 - werkzeug - INFO -  * Restarting with stat
+2025-02-13 10:10:01,906 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-13 10:10:02,778 - root - INFO - APPLICATION STARTED TEST
+2025-02-13 10:10:02,795 - werkzeug - WARNING -  * Debugger is active!
+2025-02-13 10:10:02,802 - werkzeug - INFO -  * Debugger PIN: 450-813-264

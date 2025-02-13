@@ -1,13 +1,11 @@
 import logging
 from enum import StrEnum
 import dotenv
-from flask_apispec import FlaskApiSpec
 from flask_apscheduler import APScheduler
 from flask_bcrypt import Bcrypt
 from flask_mail import Mail
 from logging.handlers import RotatingFileHandler
 
-from flask_pydantic_spec import FlaskPydanticSpec
 
 CONFIG = dotenv.dotenv_values('.env')
 
