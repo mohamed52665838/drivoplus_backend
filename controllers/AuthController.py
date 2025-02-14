@@ -69,9 +69,14 @@ def signup_user(body: UserSignUpDto):
 @auth_blueprint.post("/signin")
 @validate()
 def signin(body: SignInDto):
+  
     user = databaseInstance.db.get_collection(Collections.USER).find_one({'email': body.email}, timestamp_helper_projection)
+    print(user)
+    if user is None:
+        raise UnAuthorizedRequest()
+
     password = user.pop('password')
-    if user is None or not check_password(password, body.password):
+    if not check_password(password, body.password):
         raise UnAuthorizedRequest()
 
     access_token = app_create_access_token(identity=body.email)

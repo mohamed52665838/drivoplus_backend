@@ -27,12 +27,15 @@ mailer.init_app(app)
 scheduler.init_app(app)
 scheduler.start()
 
+
+
 with app.app_context():
     user_indexes()
     logging.info("APPLICATION STARTED TEST")
 
 app.register_blueprint(user_blueprint, url_prefix='/user')
 app.register_blueprint(auth_blueprint, url_prefix='/auth')
+
 
 @app.errorhandler(HTTPException)
 def handle_exception(e):
@@ -58,6 +61,8 @@ def handle_exception(e: DuplicateKeyError):
         'error': e.details.get("keyPattern"),
 
     }, HTTPStatus.CONFLICT
+
+
 
 
 
