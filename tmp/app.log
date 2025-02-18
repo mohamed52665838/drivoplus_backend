@@ -957,3 +957,864 @@
 2025-02-13 22:04:00,629 - root - INFO - APPLICATION STARTED TEST
 2025-02-13 22:04:00,645 - werkzeug - WARNING -  * Debugger is active!
 2025-02-13 22:04:00,659 - werkzeug - INFO -  * Debugger PIN: 426-842-001
+2025-02-14 19:22:16,808 - root - INFO - APPLICATION STARTED TEST
+2025-02-14 19:22:16,838 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-14 19:22:16,839 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-14 19:22:16,841 - werkzeug - INFO -  * Restarting with stat
+2025-02-14 19:22:33,880 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-14 19:22:34,841 - root - INFO - APPLICATION STARTED TEST
+2025-02-14 19:22:34,859 - werkzeug - WARNING -  * Debugger is active!
+2025-02-14 19:22:34,863 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-14 23:18:49,890 - root - INFO - APPLICATION STARTED TEST
+2025-02-14 23:18:49,960 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-14 23:18:49,961 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-14 23:18:49,966 - werkzeug - INFO -  * Restarting with stat
+2025-02-14 23:19:07,217 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-14 23:19:08,193 - root - INFO - APPLICATION STARTED TEST
+2025-02-14 23:19:08,215 - werkzeug - WARNING -  * Debugger is active!
+2025-02-14 23:19:08,224 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-14 23:24:13,949 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2025 23:24:13] "[33mGET / HTTP/1.1[0m" 404 -
+2025-02-14 23:26:40,734 - root - INFO - APPLICATION STARTED TEST
+2025-02-14 23:26:40,761 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-14 23:26:40,762 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-14 23:26:40,764 - werkzeug - INFO -  * Restarting with stat
+2025-02-14 23:26:57,846 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-14 23:27:00,768 - root - INFO - APPLICATION STARTED TEST
+2025-02-14 23:27:00,784 - werkzeug - WARNING -  * Debugger is active!
+2025-02-14 23:27:00,788 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-14 23:30:21,122 - root - INFO - APPLICATION STARTED TEST
+2025-02-14 23:30:21,182 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.217.117:5000
+2025-02-14 23:30:21,183 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-14 23:30:21,189 - werkzeug - INFO -  * Restarting with stat
+2025-02-14 23:30:44,326 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-14 23:30:45,370 - root - INFO - APPLICATION STARTED TEST
+2025-02-14 23:30:45,393 - werkzeug - WARNING -  * Debugger is active!
+2025-02-14 23:30:45,401 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-14 23:39:34,718 - root - INFO - APPLICATION STARTED TEST
+2025-02-14 23:39:34,737 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-14 23:39:34,737 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-14 23:39:34,737 - werkzeug - INFO -  * Restarting with stat
+2025-02-14 23:39:35,384 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-14 23:39:35,396 - root - INFO - APPLICATION STARTED TEST
+2025-02-14 23:39:35,405 - werkzeug - WARNING -  * Debugger is active!
+2025-02-14 23:39:35,407 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-14 23:49:08,995 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2025 23:49:08] "[33mPOST /auth/signup%0A HTTP/1.1[0m" 404 -
+2025-02-14 23:54:16,593 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2025 23:54:16] "[33mPOST /auth/signup%0A HTTP/1.1[0m" 404 -
+2025-02-14 23:55:44,100 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2025 23:55:44] "[33mPOST /auth/signup%0A HTTP/1.1[0m" 404 -
+2025-02-14 23:55:45,425 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2025 23:55:45] "[33mPOST /auth/signup%0A HTTP/1.1[0m" 404 -
+2025-02-14 23:55:46,771 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2025 23:55:46] "[33mPOST /auth/signup%0A HTTP/1.1[0m" 404 -
+2025-02-14 23:57:15,091 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2025 23:57:15] "[33mPOST /auth/signup%0A HTTP/1.1[0m" 404 -
+2025-02-14 23:57:16,622 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2025 23:57:16] "[33mPOST /auth/signup%0A HTTP/1.1[0m" 404 -
+2025-02-14 23:59:35,054 - werkzeug - INFO - 127.0.0.1 - - [14/Feb/2025 23:59:35] "[33mPOST /auth/signup%0A HTTP/1.1[0m" 404 -
+2025-02-15 00:01:47,799 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 00:01:47] "[33mPOST /auth/signup%0A HTTP/1.1[0m" 404 -
+2025-02-15 00:01:53,433 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 00:01:53] "[33mPOST /auth/signup%0A HTTP/1.1[0m" 404 -
+2025-02-15 00:01:59,311 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 00:01:59] "[33mPOST /auth/signup%0A HTTP/1.1[0m" 404 -
+2025-02-15 00:03:26,543 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 00:03:26] "[33mPOST /auth/signup%0A/auth/signup%0A HTTP/1.1[0m" 404 -
+2025-02-15 00:05:29,590 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 00:05:29] "[33mPOST /auth/signup%0A HTTP/1.1[0m" 404 -
+2025-02-15 00:05:30,937 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 00:05:30] "[33mPOST /auth/signup%0A HTTP/1.1[0m" 404 -
+2025-02-15 00:05:51,788 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 00:05:51] "[33mPOST /auth/signup%0A HTTP/1.1[0m" 404 -
+2025-02-15 00:11:54,645 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 00:11:54] "[33mPOST /auth/signup%0A HTTP/1.1[0m" 404 -
+2025-02-15 00:18:17,062 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 00:18:17,095 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.217.117:5000
+2025-02-15 00:18:17,095 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-15 00:18:17,097 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 00:18:17,749 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-15 00:18:17,760 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 00:18:17,773 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 00:18:17,777 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-15 00:25:19,028 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 00:25:19] "[33mPOST /auth/signup%0A HTTP/1.1[0m" 404 -
+2025-02-15 00:28:22,605 - werkzeug - INFO -  * Detected change in 'C:\\Users\\user\\projectdhawedi\\drivoplus_backend\\controllers\\AuthController.py', reloading
+2025-02-15 00:28:23,126 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 00:28:41,161 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-15 00:28:43,506 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 00:28:43,531 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 00:28:43,535 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-15 00:29:43,023 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 00:29:43] "[33mPOST /auth/signin%0A HTTP/1.1[0m" 404 -
+2025-02-15 00:32:14,391 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 00:32:14] "[33mPOST /auth/signin%0A HTTP/1.1[0m" 404 -
+2025-02-15 00:32:15,575 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 00:32:15] "[33mPOST /auth/signin%0A HTTP/1.1[0m" 404 -
+2025-02-15 00:36:01,956 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 00:36:01] "[33mPOST /auth/signin%0A HTTP/1.1[0m" 404 -
+2025-02-15 00:39:48,900 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 00:39:48] "[33mPOST /auth/signin%0A HTTP/1.1[0m" 404 -
+2025-02-15 00:40:12,129 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 00:40:12] "[33mPOST /auth/signin%0A HTTP/1.1[0m" 404 -
+2025-02-15 00:41:01,305 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 00:41:01] "[33mPOST /auth/signin%0A HTTP/1.1[0m" 404 -
+2025-02-15 00:44:59,342 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 00:44:59] "[33mPOST /auth/signin%0A HTTP/1.1[0m" 404 -
+2025-02-15 00:45:18,395 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 00:45:18] "[33mGET /auth/signin%0A HTTP/1.1[0m" 404 -
+2025-02-15 00:45:44,363 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 00:45:44] "[33mGET /auth%0A HTTP/1.1[0m" 404 -
+2025-02-15 00:49:38,209 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 00:49:38] "[33mGET /auth%0A HTTP/1.1[0m" 404 -
+2025-02-15 00:51:08,351 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 00:51:08] "[33mPOST /auth/signin%0A HTTP/1.1[0m" 404 -
+2025-02-15 00:51:32,187 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 00:51:32] "[33mPOST /auth/signin HTTP/1.1[0m" 404 -
+2025-02-15 00:51:33,733 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 00:51:33] "[33mPOST /auth/signin HTTP/1.1[0m" 404 -
+2025-02-15 00:51:53,571 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 00:51:53] "[33mPOST /auth/signin HTTP/1.1[0m" 404 -
+2025-02-15 00:51:54,928 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 00:51:54] "[33mPOST /auth/signin HTTP/1.1[0m" 404 -
+2025-02-15 00:52:02,286 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 00:52:02] "[33mPOST /auth/signin HTTP/1.1[0m" 404 -
+2025-02-15 00:58:49,674 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 00:58:49] "[33mPOST /auth/signin HTTP/1.1[0m" 404 -
+2025-02-15 10:17:44,220 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 10:17:44,247 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.217.117:5000
+2025-02-15 10:17:44,247 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-15 10:17:44,248 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 10:18:01,242 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-15 10:18:02,121 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 10:18:02,131 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 10:18:02,133 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-15 10:23:01,887 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 10:23:01] "[33mPOST /auth/register%0A HTTP/1.1[0m" 404 -
+2025-02-15 10:25:24,045 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 10:25:24] "[31m[1mPOST /auth/signup HTTP/1.1[0m" 400 -
+2025-02-15 10:26:12,442 - apscheduler.scheduler - INFO - Added job "67b05db4e26cc195bdb64f3a" to job store "default"
+2025-02-15 10:26:12,443 - root - INFO - USER SIGNED IN
+2025-02-15 10:26:12,444 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 10:26:12] "POST /auth/signup HTTP/1.1" 200 -
+2025-02-15 10:37:29,578 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 10:37:29,608 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-15 10:37:29,608 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-15 10:37:29,610 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 10:38:06,560 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 10:38:06,577 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.217.117:5000
+2025-02-15 10:38:06,577 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-15 10:38:06,578 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 10:38:23,584 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-15 10:38:24,508 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 10:38:24,520 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 10:38:24,522 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-15 10:38:37,881 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 10:38:37] "[31m[1mPOST /auth/signup HTTP/1.1[0m" 409 -
+2025-02-15 10:38:59,556 - apscheduler.scheduler - INFO - Added job "67b060b393fadb6c8e7549e3" to job store "default"
+2025-02-15 10:38:59,557 - root - INFO - USER SIGNED IN
+2025-02-15 10:38:59,557 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 10:38:59] "POST /auth/signup HTTP/1.1" 200 -
+2025-02-15 10:39:17,480 - apscheduler.scheduler - INFO - Added job "67b060c593fadb6c8e7549e5" to job store "default"
+2025-02-15 10:39:17,480 - root - INFO - USER SIGNED IN
+2025-02-15 10:39:17,480 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 10:39:17] "POST /auth/signup HTTP/1.1" 200 -
+2025-02-15 10:39:29,523 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 10:39:29] "[31m[1mPOST /auth/signup HTTP/1.1[0m" 409 -
+2025-02-15 10:39:35,929 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 10:39:35] "[31m[1mPOST /auth/signup HTTP/1.1[0m" 409 -
+2025-02-15 10:39:37,801 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 10:39:37] "[31m[1mPOST /auth/signup HTTP/1.1[0m" 409 -
+2025-02-15 10:45:49,172 - apscheduler.scheduler - INFO - Added job "67b0624d93fadb6c8e7549ea" to job store "default"
+2025-02-15 10:45:49,172 - root - INFO - USER SIGNED IN
+2025-02-15 10:45:49,173 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 10:45:49] "POST /auth/signup HTTP/1.1" 200 -
+2025-02-15 10:52:43,077 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 10:52:43] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-15 11:08:59,571 - apscheduler.executors.default - INFO - Running job "67b060b393fadb6c8e7549e3 (trigger: date[2025-02-15 11:08:59 WAT], next run at: 2025-02-15 11:08:59 WAT)" (scheduled at 2025-02-15 11:08:59.556179+01:00)
+2025-02-15 11:08:59,571 - apscheduler.scheduler - INFO - Removed job 67b060b393fadb6c8e7549e3
+2025-02-15 11:08:59,889 - apscheduler.executors.default - INFO - Job "67b060b393fadb6c8e7549e3 (trigger: date[2025-02-15 11:08:59 WAT], next run at: 2025-02-15 11:08:59 WAT)" executed successfully
+2025-02-15 11:09:17,492 - apscheduler.scheduler - INFO - Removed job 67b060c593fadb6c8e7549e5
+2025-02-15 11:09:17,493 - apscheduler.executors.default - INFO - Running job "67b060c593fadb6c8e7549e5 (trigger: date[2025-02-15 11:09:17 WAT], next run at: 2025-02-15 11:09:17 WAT)" (scheduled at 2025-02-15 11:09:17.480138+01:00)
+2025-02-15 11:09:17,741 - apscheduler.executors.default - INFO - Job "67b060c593fadb6c8e7549e5 (trigger: date[2025-02-15 11:09:17 WAT], next run at: 2025-02-15 11:09:17 WAT)" executed successfully
+2025-02-15 11:11:16,473 - werkzeug - INFO -  * Detected change in 'C:\\Users\\user\\projectdhawedi\\drivoplus_backend\\main.py', reloading
+2025-02-15 11:11:16,940 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 11:11:18,977 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 11:11:18,981 - werkzeug - INFO -  * Debugger PIN: 113-109-298
+2025-02-15 11:11:21,137 - werkzeug - INFO -  * Detected change in 'C:\\Users\\user\\projectdhawedi\\drivoplus_backend\\main.py', reloading
+2025-02-15 11:11:21,364 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 11:11:39,393 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-15 11:11:40,453 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 11:11:40,461 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 11:11:40,463 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-15 11:12:17,146 - werkzeug - INFO -  * Detected change in 'C:\\Users\\user\\projectdhawedi\\drivoplus_backend\\main.py', reloading
+2025-02-15 11:12:17,901 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 11:12:35,629 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-15 11:12:36,596 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 11:12:36,621 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 11:12:36,625 - werkzeug - INFO -  * Debugger PIN: 113-109-298
+2025-02-15 11:13:41,918 - werkzeug - INFO -  * Detected change in 'C:\\Users\\user\\projectdhawedi\\drivoplus_backend\\main.py', reloading
+2025-02-15 11:13:42,578 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 11:13:43,829 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 11:13:43,831 - werkzeug - INFO -  * Debugger PIN: 113-109-298
+2025-02-15 11:13:54,228 - werkzeug - INFO -  * Detected change in 'C:\\Users\\user\\projectdhawedi\\drivoplus_backend\\main.py', reloading
+2025-02-15 11:13:54,446 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 11:14:12,461 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-15 11:14:13,547 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 11:14:13,572 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 11:14:13,577 - werkzeug - INFO -  * Debugger PIN: 113-109-298
+2025-02-15 11:14:52,609 - werkzeug - INFO -  * Detected change in 'C:\\Users\\user\\projectdhawedi\\drivoplus_backend\\main.py', reloading
+2025-02-15 11:14:53,273 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 11:15:11,598 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-15 11:15:12,466 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 11:15:12,482 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 11:15:12,486 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-15 11:20:11,312 - werkzeug - INFO -  * Detected change in 'C:\\Users\\user\\projectdhawedi\\drivoplus_backend\\main.py', reloading
+2025-02-15 11:20:11,950 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 11:20:29,389 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-15 11:20:30,428 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 11:20:30,445 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 11:20:30,448 - werkzeug - INFO -  * Debugger PIN: 113-109-298
+2025-02-15 11:20:47,916 - werkzeug - INFO -  * Detected change in 'C:\\Users\\user\\projectdhawedi\\drivoplus_backend\\controllers\\PaymentController.py', reloading
+2025-02-15 11:20:48,498 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 11:21:05,487 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-15 11:21:06,442 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 11:21:06,449 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 11:21:06,451 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-15 11:21:30,118 - werkzeug - INFO -  * Detected change in 'C:\\Users\\user\\projectdhawedi\\drivoplus_backend\\main.py', reloading
+2025-02-15 11:21:30,657 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 11:21:47,889 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-15 11:21:48,870 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 11:21:49,689 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 11:21:49,692 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-15 11:22:09,452 - werkzeug - INFO -  * Detected change in 'C:\\Users\\user\\projectdhawedi\\drivoplus_backend\\main.py', reloading
+2025-02-15 11:22:10,176 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 11:22:28,054 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-15 11:22:28,972 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 11:22:28,983 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 11:22:28,986 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-15 11:24:27,332 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 11:24:27,346 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.217.117:5000
+2025-02-15 11:24:27,346 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-15 11:24:27,347 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 11:24:45,094 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-15 11:24:46,059 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 11:24:46,069 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 11:24:46,071 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-15 11:26:03,655 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-15 11:26:04,406 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=400
+2025-02-15 11:26:04,406 - stripe - INFO - error_code=payment_intent_unexpected_state error_message="You cannot confirm this PaymentIntent because it's missing a payment method. You can either update the PaymentIntent with a payment method and then confirm it again, or confirm it again directly with a payment method or ConfirmationToken." error_param=None error_type=invalid_request_error message='Stripe v1 API error received'
+2025-02-15 11:26:04,408 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 11:26:04] "[31m[1mPOST /payment/create-payment-intent HTTP/1.1[0m" 400 -
+2025-02-15 11:27:43,529 - werkzeug - INFO -  * Detected change in 'C:\\Users\\user\\projectdhawedi\\drivoplus_backend\\controllers\\PaymentController.py', reloading
+2025-02-15 11:27:44,041 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 11:28:02,136 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-15 11:28:03,132 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 11:28:03,147 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 11:28:03,150 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-15 11:28:26,302 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 11:28:26,315 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.217.117:5000
+2025-02-15 11:28:26,315 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-15 11:28:26,316 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 11:28:50,289 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-15 11:28:51,244 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 11:28:51,259 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 11:28:51,263 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-15 11:28:51,409 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-15 11:28:52,331 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-15 11:28:52,341 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 11:28:52] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-15 12:51:12,949 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 12:51:12,981 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.217.117:5000
+2025-02-15 12:51:12,982 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-15 12:51:12,984 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 12:51:36,953 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-15 12:51:37,827 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 12:51:37,837 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 12:51:37,840 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-15 12:53:54,321 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 12:53:54,334 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.217.117:5000
+2025-02-15 12:53:54,334 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-15 12:53:54,335 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 12:54:12,049 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-15 12:54:13,126 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 12:54:13,136 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 12:54:13,138 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-15 12:54:58,864 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-15 12:54:59,725 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-15 12:54:59,734 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 12:54:59] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-15 13:01:16,200 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-15 13:01:17,081 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-15 13:01:17,088 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 13:01:17] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-15 13:02:02,412 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-15 13:02:03,328 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-15 13:02:03,338 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 13:02:03] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-15 13:02:35,359 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-15 13:02:36,159 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-15 13:02:36,167 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 13:02:36] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-15 13:10:43,721 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-15 13:10:44,693 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-15 13:10:44,704 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 13:10:44] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-15 13:13:24,180 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-15 13:13:25,194 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-15 13:13:25,208 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 13:13:25] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-15 13:15:27,299 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-15 13:15:28,289 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-15 13:15:28,299 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 13:15:28] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-15 14:27:12,960 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 14:27:13,010 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.217.117:5000
+2025-02-15 14:27:13,010 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-15 14:27:13,012 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 14:27:38,540 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-15 14:27:40,724 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 14:27:40,752 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 14:27:40,756 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-15 14:30:30,078 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 14:30:30] "[31m[1mPOST /auth/signin HTTP/1.1[0m" 401 -
+2025-02-15 14:32:29,070 - apscheduler.scheduler - INFO - Added job "67b0976cac48e0e400868bb8" to job store "default"
+2025-02-15 14:32:29,071 - root - INFO - USER SIGNED IN
+2025-02-15 14:32:29,072 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 14:32:29] "POST /auth/signup HTTP/1.1" 200 -
+2025-02-15 14:33:27,337 - root - INFO - User Confirm his Account
+2025-02-15 14:33:27,341 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 14:33:27] "POST /auth/confirm HTTP/1.1" 200 -
+2025-02-15 14:38:57,066 - apscheduler.scheduler - INFO - Added job "67b098f0ac48e0e400868bba" to job store "default"
+2025-02-15 14:38:57,067 - root - INFO - USER SIGNED IN
+2025-02-15 14:38:57,068 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 14:38:57] "POST /auth/signup HTTP/1.1" 200 -
+2025-02-15 14:39:31,672 - root - INFO - User Confirm his Account
+2025-02-15 14:39:31,672 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 14:39:31] "POST /auth/confirm HTTP/1.1" 200 -
+2025-02-15 14:40:22,958 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 14:40:22] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-15 14:44:09,106 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 14:44:09] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-15 14:45:26,110 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 14:45:26] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-15 14:55:11,056 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 14:55:11] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-15 14:56:47,043 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 14:56:47] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-15 14:58:49,333 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-15 14:58:50,664 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-15 14:58:51,355 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 14:58:51] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-15 14:59:06,185 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-15 14:59:07,866 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-15 14:59:08,167 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 14:59:08] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-15 15:00:00,867 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-15 15:00:02,053 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-15 15:00:02,151 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 15:00:02] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-15 15:00:04,268 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-15 15:00:06,439 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-15 15:00:06,847 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 15:00:06] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-15 15:00:11,256 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-15 15:00:12,669 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-15 15:00:12,775 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 15:00:12] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-15 15:01:20,083 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-15 15:01:22,010 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-15 15:01:22,466 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 15:01:22] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-15 15:02:29,083 - apscheduler.executors.default - INFO - Running job "67b0976cac48e0e400868bb8 (trigger: date[2025-02-15 15:02:29 WAT], next run at: 2025-02-15 15:02:29 WAT)" (scheduled at 2025-02-15 15:02:29.068811+01:00)
+2025-02-15 15:02:29,086 - apscheduler.scheduler - INFO - Removed job 67b0976cac48e0e400868bb8
+2025-02-15 15:02:29,497 - apscheduler.executors.default - INFO - Job "67b0976cac48e0e400868bb8 (trigger: date[2025-02-15 15:02:29 WAT], next run at: 2025-02-15 15:02:29 WAT)" executed successfully
+2025-02-15 15:05:42,920 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 15:05:42] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-15 15:08:57,081 - apscheduler.scheduler - INFO - Removed job 67b098f0ac48e0e400868bba
+2025-02-15 15:08:57,082 - apscheduler.executors.default - INFO - Running job "67b098f0ac48e0e400868bba (trigger: date[2025-02-15 15:08:57 WAT], next run at: 2025-02-15 15:08:57 WAT)" (scheduled at 2025-02-15 15:08:57.065958+01:00)
+2025-02-15 15:08:57,784 - apscheduler.executors.default - INFO - Job "67b098f0ac48e0e400868bba (trigger: date[2025-02-15 15:08:57 WAT], next run at: 2025-02-15 15:08:57 WAT)" executed successfully
+2025-02-15 15:10:07,080 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 15:10:07] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-15 15:23:51,685 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 15:23:51] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-15 15:29:44,025 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 15:29:44] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-15 15:43:28,811 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 15:43:28] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-15 15:43:31,413 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-15 15:43:32,732 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-15 15:43:32,842 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 15:43:32] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-15 15:44:17,842 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 15:44:17] "[33mPOST /user/update-premium-status HTTP/1.1[0m" 404 -
+2025-02-15 15:47:39,152 - apscheduler.scheduler - INFO - Added job "67b0a90bac48e0e400868bbc" to job store "default"
+2025-02-15 15:47:39,153 - root - INFO - USER SIGNED IN
+2025-02-15 15:47:39,154 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 15:47:39] "POST /auth/signup HTTP/1.1" 200 -
+2025-02-15 15:48:21,651 - root - INFO - User Confirm his Account
+2025-02-15 15:48:21,652 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 15:48:21] "POST /auth/confirm HTTP/1.1" 200 -
+2025-02-15 15:49:07,115 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 15:49:07] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-15 15:49:08,674 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-15 15:49:09,924 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-15 15:49:10,015 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 15:49:10] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-15 15:49:52,393 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 15:49:52] "[33mPOST /user/update-premium-status HTTP/1.1[0m" 404 -
+2025-02-15 16:07:44,886 - apscheduler.scheduler - INFO - Added job "67b0adc0ac48e0e400868bbe" to job store "default"
+2025-02-15 16:07:44,894 - root - INFO - USER SIGNED IN
+2025-02-15 16:07:44,900 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 16:07:44] "POST /auth/signup HTTP/1.1" 200 -
+2025-02-15 16:08:11,670 - root - INFO - User Confirm his Account
+2025-02-15 16:08:11,671 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 16:08:11] "POST /auth/confirm HTTP/1.1" 200 -
+2025-02-15 16:09:17,624 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 16:09:17] "[31m[1mPOST /auth/signin HTTP/1.1[0m" 401 -
+2025-02-15 16:09:30,653 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 16:09:30] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-15 16:09:44,331 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-15 16:09:45,535 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-15 16:09:45,647 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 16:09:45] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-15 16:10:27,495 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 16:10:27] "[33mPOST /user/update-premium-status HTTP/1.1[0m" 404 -
+2025-02-15 16:11:45,704 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-15 16:11:47,194 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-15 16:11:47,279 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 16:11:47] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-15 16:17:39,157 - apscheduler.scheduler - INFO - Removed job 67b0a90bac48e0e400868bbc
+2025-02-15 16:17:39,159 - apscheduler.executors.default - INFO - Running job "67b0a90bac48e0e400868bbc (trigger: date[2025-02-15 16:17:39 WAT], next run at: 2025-02-15 16:17:39 WAT)" (scheduled at 2025-02-15 16:17:39.145998+01:00)
+2025-02-15 16:17:39,436 - apscheduler.executors.default - INFO - Job "67b0a90bac48e0e400868bbc (trigger: date[2025-02-15 16:17:39 WAT], next run at: 2025-02-15 16:17:39 WAT)" executed successfully
+2025-02-15 16:20:45,872 - werkzeug - INFO -  * Detected change in 'C:\\Users\\user\\projectdhawedi\\drivoplus_backend\\controllers\\PaymentController.py', reloading
+2025-02-15 16:20:46,817 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 16:21:07,175 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-15 16:21:10,151 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 16:21:10,183 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 16:21:10,190 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-15 16:21:16,528 - werkzeug - INFO -  * Detected change in 'C:\\Users\\user\\projectdhawedi\\drivoplus_backend\\controllers\\PaymentController.py', reloading
+2025-02-15 16:21:17,214 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 16:21:20,641 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 16:21:39,059 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-15 16:21:40,549 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 16:21:40,559 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 16:21:40,562 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-15 16:21:45,883 - werkzeug - INFO -  * Detected change in 'C:\\Users\\user\\projectdhawedi\\drivoplus_backend\\controllers\\PaymentController.py', reloading
+2025-02-15 16:21:46,762 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 16:22:05,480 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-15 16:22:06,952 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 16:22:06,962 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 16:22:06,965 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-15 16:22:15,382 - werkzeug - INFO -  * Detected change in 'C:\\Users\\user\\projectdhawedi\\drivoplus_backend\\controllers\\PaymentController.py', reloading
+2025-02-15 16:22:16,100 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 16:22:34,625 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-15 16:22:35,827 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 16:22:35,835 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 16:22:35,839 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-15 16:23:05,102 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 16:23:05,129 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.217.117:5000
+2025-02-15 16:23:05,130 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-15 16:23:05,132 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 16:23:20,288 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-15 16:23:21,339 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-15 16:23:21,443 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 16:23:21] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-15 16:23:23,295 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-15 16:23:24,886 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 16:23:24,906 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 16:23:24,912 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-15 16:23:49,173 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 16:23:49] "[33mPOST /user/update-premium-status HTTP/1.1[0m" 404 -
+2025-02-15 16:27:03,636 - werkzeug - INFO -  * Detected change in 'C:\\Users\\user\\projectdhawedi\\drivoplus_backend\\controllers\\PaymentController.py', reloading
+2025-02-15 16:27:04,171 - werkzeug - INFO -  * Detected change in 'C:\\Users\\user\\projectdhawedi\\drivoplus_backend\\controllers\\PaymentController.py', reloading
+2025-02-15 16:27:04,366 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 16:27:05,011 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 16:27:05,928 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 16:27:06,492 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 16:27:31,317 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-15 16:27:31,317 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-15 16:27:32,395 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 16:27:32,405 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 16:27:32,407 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-15 16:27:32,426 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 16:27:32,437 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 16:27:32,441 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-15 16:27:35,637 - werkzeug - INFO -  * Detected change in 'C:\\Users\\user\\projectdhawedi\\drivoplus_backend\\controllers\\PaymentController.py', reloading
+2025-02-15 16:27:35,680 - werkzeug - INFO -  * Detected change in 'C:\\Users\\user\\projectdhawedi\\drivoplus_backend\\controllers\\PaymentController.py', reloading
+2025-02-15 16:27:36,441 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 16:27:36,476 - werkzeug - INFO -  * Restarting with stat
+2025-02-15 16:27:54,917 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-15 16:27:54,918 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-15 16:27:55,870 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 16:27:55,883 - root - INFO - APPLICATION STARTED TEST
+2025-02-15 16:27:55,888 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 16:27:55,893 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-15 16:27:55,899 - werkzeug - WARNING -  * Debugger is active!
+2025-02-15 16:27:55,903 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-15 16:27:56,094 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-15 16:27:57,008 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-15 16:27:57,089 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 16:27:57] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-15 16:28:24,271 - werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 16:28:24] "[33mPOST /user/update-premium-status HTTP/1.1[0m" 404 -
+2025-02-16 15:16:27,956 - root - INFO - APPLICATION STARTED TEST
+2025-02-16 15:16:27,995 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.217.117:5000
+2025-02-16 15:16:27,995 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-16 15:16:27,997 - werkzeug - INFO -  * Restarting with stat
+2025-02-16 15:16:47,853 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-16 15:16:48,759 - root - INFO - APPLICATION STARTED TEST
+2025-02-16 15:16:48,792 - werkzeug - WARNING -  * Debugger is active!
+2025-02-16 15:16:48,799 - werkzeug - INFO -  * Debugger PIN: 811-368-456
+2025-02-16 15:23:20,491 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 15:23:20] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-16 15:23:23,572 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 15:23:24,675 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 15:23:24,776 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 15:23:24] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 15:27:30,587 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 15:27:31,928 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 15:27:32,020 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 15:27:32] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 15:52:32,697 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 15:52:32] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-16 15:52:37,288 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 15:52:38,992 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 15:52:39,612 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 15:52:39] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 15:52:54,403 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 15:52:56,507 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 15:52:56,716 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 15:52:56] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 15:52:59,370 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 15:53:01,175 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 15:53:01,782 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 15:53:01] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 15:54:43,257 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 15:54:44,741 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 15:54:45,059 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 15:54:45] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 15:54:51,485 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 15:54:53,251 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 15:54:53,708 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 15:54:53] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 15:55:28,013 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 15:55:28] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-16 15:55:29,638 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 15:55:31,493 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 15:55:32,770 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 15:55:32] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 15:56:40,731 - apscheduler.scheduler - INFO - Added job "67b1fca88676bcc2a4963d21" to job store "default"
+2025-02-16 15:56:40,732 - root - INFO - USER SIGNED IN
+2025-02-16 15:56:40,733 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 15:56:40] "POST /auth/signup HTTP/1.1" 200 -
+2025-02-16 15:57:19,715 - root - INFO - User Confirm his Account
+2025-02-16 15:57:19,716 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 15:57:19] "POST /auth/confirm HTTP/1.1" 200 -
+2025-02-16 15:58:19,369 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 15:58:19] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-16 15:58:21,139 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 15:58:22,955 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 15:58:23,046 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 15:58:23] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 16:05:56,403 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 16:05:57,808 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 16:05:57,904 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 16:05:57] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 16:08:03,961 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 16:08:03] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-16 16:21:06,400 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 16:21:06] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-16 16:21:12,368 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 16:21:13,881 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 16:21:13,982 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 16:21:13] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 16:22:27,451 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 16:22:29,040 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 16:22:29,460 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 16:22:29] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 16:26:40,736 - apscheduler.executors.default - INFO - Running job "67b1fca88676bcc2a4963d21 (trigger: date[2025-02-16 16:26:40 WAT], next run at: 2025-02-16 16:26:40 WAT)" (scheduled at 2025-02-16 16:26:40.716857+01:00)
+2025-02-16 16:26:40,740 - apscheduler.scheduler - INFO - Removed job 67b1fca88676bcc2a4963d21
+2025-02-16 16:26:41,020 - apscheduler.executors.default - INFO - Job "67b1fca88676bcc2a4963d21 (trigger: date[2025-02-16 16:26:40 WAT], next run at: 2025-02-16 16:26:40 WAT)" executed successfully
+2025-02-16 16:35:39,309 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 16:35:40,711 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 16:35:41,132 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 16:35:41] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 16:39:40,315 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 16:39:42,302 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 16:39:42,465 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 16:39:42] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 16:41:49,900 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 16:41:52,164 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 16:41:52,270 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 16:41:52] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 16:41:58,433 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 16:42:00,074 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 16:42:00,294 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 16:42:00] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 16:47:49,785 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 16:47:51,238 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 16:47:51,673 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 16:47:51] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 16:47:58,163 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 16:48:00,018 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 16:48:00,237 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 16:48:00] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 16:48:01,723 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 16:48:02,944 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 16:48:03,035 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 16:48:03] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 16:48:08,992 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 16:48:11,797 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 16:48:11,970 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 16:48:11] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 16:48:15,760 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 16:48:17,201 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 16:48:17,619 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 16:48:17] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 16:53:22,379 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 16:53:26,511 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 16:53:27,327 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 16:53:27] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 16:53:28,074 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 16:53:28,890 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 16:53:29,034 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 16:53:29] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 16:53:33,831 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 16:53:34,833 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 16:53:34,914 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 16:53:34] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 16:56:48,443 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 16:56:48] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-16 16:56:57,141 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 16:56:58,036 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 16:56:58,118 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 16:56:58] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 17:00:01,581 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 17:00:02,583 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 17:00:02,681 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 17:00:02] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 17:01:18,907 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 17:01:20,942 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 17:01:21,021 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 17:01:21] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 17:02:25,250 - apscheduler.scheduler - INFO - Added job "67b20c118676bcc2a4963d23" to job store "default"
+2025-02-16 17:02:25,252 - root - INFO - USER SIGNED IN
+2025-02-16 17:02:25,253 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 17:02:25] "POST /auth/signup HTTP/1.1" 200 -
+2025-02-16 17:03:11,271 - root - INFO - User Confirm his Account
+2025-02-16 17:03:11,271 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 17:03:11] "POST /auth/confirm HTTP/1.1" 200 -
+2025-02-16 17:04:14,487 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 17:04:14] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-16 17:04:17,981 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 17:04:18,972 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 17:04:19,472 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 17:04:19] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 17:04:34,102 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 17:04:34,913 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 17:04:34,999 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 17:04:34] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 17:04:42,665 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 17:04:43,647 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 17:04:43,727 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 17:04:43] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 17:08:24,744 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 17:08:25,567 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 17:08:25,651 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 17:08:25] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 17:08:30,045 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 17:08:30,832 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 17:08:30,912 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 17:08:30] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 17:13:57,243 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 17:13:58,170 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 17:13:58,257 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 17:13:58] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 17:14:01,792 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 17:14:02,759 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 17:14:02,850 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 17:14:02] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 17:32:25,261 - apscheduler.scheduler - INFO - Removed job 67b20c118676bcc2a4963d23
+2025-02-16 17:32:25,261 - apscheduler.executors.default - INFO - Running job "67b20c118676bcc2a4963d23 (trigger: date[2025-02-16 17:32:25 WAT], next run at: 2025-02-16 17:32:25 WAT)" (scheduled at 2025-02-16 17:32:25.248966+01:00)
+2025-02-16 17:32:25,791 - apscheduler.executors.default - INFO - Job "67b20c118676bcc2a4963d23 (trigger: date[2025-02-16 17:32:25 WAT], next run at: 2025-02-16 17:32:25 WAT)" executed successfully
+2025-02-16 18:06:12,917 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 18:06:13,990 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 18:06:14,539 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:06:14] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 18:07:40,629 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 18:07:41,427 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 18:07:41,513 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:07:41] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 18:09:37,666 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 18:09:38,660 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 18:09:38,755 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:09:38] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 18:09:40,938 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 18:09:41,830 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 18:09:41,911 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:09:41] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 18:09:47,800 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 18:09:48,805 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 18:09:48,910 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:09:48] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 18:13:09,804 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 18:13:10,791 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 18:13:10,880 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:13:10] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 18:13:17,579 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 18:13:18,671 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 18:13:18,758 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:13:18] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 18:13:46,765 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 18:13:47,632 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 18:13:47,749 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:13:47] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 18:14:00,672 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 18:14:01,786 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 18:14:01,882 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:14:01] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 18:21:31,959 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:21:31] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-16 18:21:34,093 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 18:21:35,158 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 18:21:35,255 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:21:35] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 18:21:49,128 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 18:21:50,010 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 18:21:50,117 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:21:50] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 18:23:09,143 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 18:23:10,172 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 18:23:10,259 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:23:10] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 18:25:10,404 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 18:25:11,330 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 18:25:11,426 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:25:11] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 18:25:17,868 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 18:25:18,656 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 18:25:18,739 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:25:18] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 18:27:11,658 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:27:11] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-16 18:27:20,756 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 18:27:21,675 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 18:27:21,766 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:27:21] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 18:30:17,772 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 18:30:18,650 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 18:30:18,740 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:30:18] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 18:31:10,183 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:31:10] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-16 18:31:17,630 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 18:31:18,543 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 18:31:18,627 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:31:18] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 18:34:57,730 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 18:34:58,618 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 18:34:58,715 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:34:58] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 18:35:04,591 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 18:35:05,382 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 18:35:05,475 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:35:05] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 18:40:23,907 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 18:40:24,802 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 18:40:24,895 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:40:24] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 18:40:50,443 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 18:40:51,354 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 18:40:51,430 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:40:51] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 18:41:29,740 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:41:29] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-16 18:41:40,378 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 18:41:42,064 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 18:41:42,151 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:41:42] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 18:41:49,191 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 18:41:50,549 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 18:41:50,651 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:41:50] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 18:49:11,344 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 18:49:13,273 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 18:49:13,368 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:49:13] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 18:59:55,396 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 18:59:56,752 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 18:59:57,070 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 18:59:57] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 21:12:45,344 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 21:12:45] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-16 21:16:38,332 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 21:16:38] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-16 21:24:37,248 - root - INFO - APPLICATION STARTED TEST
+2025-02-16 21:24:37,284 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.144:5000
+2025-02-16 21:24:37,284 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-16 21:24:37,286 - werkzeug - INFO -  * Restarting with stat
+2025-02-16 21:24:38,606 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-16 21:24:39,483 - root - INFO - APPLICATION STARTED TEST
+2025-02-16 21:24:39,494 - werkzeug - WARNING -  * Debugger is active!
+2025-02-16 21:24:39,496 - werkzeug - INFO -  * Debugger PIN: 584-593-436
+2025-02-16 21:34:02,193 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 21:34:02] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-16 21:34:08,171 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 21:34:09,062 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 21:34:09,145 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 21:34:09] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 21:34:21,247 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 21:34:22,021 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 21:34:22,101 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 21:34:22] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 21:36:02,099 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 21:36:02,942 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 21:36:03,019 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 21:36:03] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 21:38:13,457 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 21:38:13] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-16 22:06:26,578 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 22:06:26] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-16 22:06:37,216 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 22:06:38,173 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 22:06:38,268 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 22:06:38] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 22:10:58,336 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 22:11:00,381 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 22:11:00,472 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 22:11:00] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 22:11:52,290 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 22:11:57,161 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 22:11:57,469 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 22:11:57] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 22:14:31,469 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 22:14:32,863 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 22:14:33,336 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 22:14:33] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 22:17:11,089 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 22:17:11] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-16 22:17:13,108 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 22:17:15,322 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 22:17:15,607 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 22:17:15] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 22:22:13,569 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 22:22:15,685 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 22:22:16,103 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 22:22:16] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 22:24:58,329 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 22:24:58] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-16 22:27:43,385 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 22:27:44,780 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 22:27:44,876 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 22:27:44] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 22:32:51,765 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 22:32:51] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-16 22:50:29,294 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 22:50:29] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-16 22:50:59,393 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 22:51:01,855 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 22:51:01,943 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 22:51:01] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-16 22:57:43,953 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-16 22:57:45,710 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-16 22:57:47,695 - werkzeug - INFO - 127.0.0.1 - - [16/Feb/2025 22:57:47] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-17 14:53:42,954 - root - INFO - APPLICATION STARTED TEST
+2025-02-17 14:53:42,985 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.217.117:5000
+2025-02-17 14:53:42,985 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-17 14:53:42,988 - werkzeug - INFO -  * Restarting with stat
+2025-02-17 14:54:02,997 - apscheduler.scheduler - INFO - Scheduler started
+2025-02-17 14:54:04,261 - root - INFO - APPLICATION STARTED TEST
+2025-02-17 14:54:04,286 - werkzeug - WARNING -  * Debugger is active!
+2025-02-17 14:54:04,293 - werkzeug - INFO -  * Debugger PIN: 584-593-436
+2025-02-17 14:58:01,531 - apscheduler.scheduler - INFO - Added job "67b340692bc0b0c3032e026d" to job store "default"
+2025-02-17 14:58:01,531 - root - INFO - USER SIGNED IN
+2025-02-17 14:58:01,533 - werkzeug - INFO - 127.0.0.1 - - [17/Feb/2025 14:58:01] "POST /auth/signup HTTP/1.1" 200 -
+2025-02-17 14:58:49,937 - root - INFO - User Confirm his Account
+2025-02-17 14:58:49,938 - werkzeug - INFO - 127.0.0.1 - - [17/Feb/2025 14:58:49] "POST /auth/confirm HTTP/1.1" 200 -
+2025-02-17 14:59:39,780 - werkzeug - INFO - 127.0.0.1 - - [17/Feb/2025 14:59:39] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-17 14:59:52,112 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-17 14:59:53,095 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-17 14:59:53,186 - werkzeug - INFO - 127.0.0.1 - - [17/Feb/2025 14:59:53] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-17 15:28:01,539 - apscheduler.executors.default - INFO - Running job "67b340692bc0b0c3032e026d (trigger: date[2025-02-17 15:28:01 WAT], next run at: 2025-02-17 15:28:01 WAT)" (scheduled at 2025-02-17 15:28:01.531000+01:00)
+2025-02-17 15:28:01,541 - apscheduler.scheduler - INFO - Removed job 67b340692bc0b0c3032e026d
+2025-02-17 15:28:31,743 - apscheduler.executors.default - ERROR - Job "67b340692bc0b0c3032e026d (trigger: date[2025-02-17 15:28:01 WAT], next run at: 2025-02-17 15:28:01 WAT)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\user\projectdhawedi\drivoplus_backend\.venv1\Lib\site-packages\apscheduler\executors\base.py", line 131, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\user\projectdhawedi\drivoplus_backend\controllers\AuthController.py", line 56, in <lambda>
+    scheduler.add_job(id=str(inserted_row.inserted_id),func=lambda : expired_otp(body.email), run_date=datetime.datetime.now() + datetime.timedelta(minutes=30))
+                                                                     ~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\user\projectdhawedi\drivoplus_backend\controllers\AuthController.py", line 148, in expired_otp
+    databaseInstance.db.get_collection(Collections.OTP_VALIDATOR).delete_one({'email': email})
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\projectdhawedi\drivoplus_backend\.venv1\Lib\site-packages\pymongo\synchronous\collection.py", line 1646, in delete_one
+    self._delete_retryable(
+    ~~~~~~~~~~~~~~~~~~~~~~^
+        filter,
+        ^^^^^^^
+    ...<6 lines>...
+        comment=comment,
+        ^^^^^^^^^^^^^^^^
+    ),
+    ^
+  File "C:\Users\user\projectdhawedi\drivoplus_backend\.venv1\Lib\site-packages\pymongo\synchronous\collection.py", line 1587, in _delete_retryable
+    return self._database.client._retryable_write(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        (write_concern or self.write_concern).acknowledged and not multi,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        operation=_Op.DELETE,
+        ^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\user\projectdhawedi\drivoplus_backend\.venv1\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1896, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\projectdhawedi\drivoplus_backend\.venv1\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1782, in _retry_with_session
+    return self._retry_internal(
+           ~~~~~~~~~~~~~~~~~~~~^
+        func=func,
+        ^^^^^^^^^^
+    ...<4 lines>...
+        operation_id=operation_id,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\user\projectdhawedi\drivoplus_backend\.venv1\Lib\site-packages\pymongo\_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\user\projectdhawedi\drivoplus_backend\.venv1\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1828, in _retry_internal
+    ).run()
+      ~~~^^
+  File "C:\Users\user\projectdhawedi\drivoplus_backend\.venv1\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2565, in run
+    return self._read() if self._is_read else self._write()
+                                              ~~~~~~~~~~~^^
+  File "C:\Users\user\projectdhawedi\drivoplus_backend\.venv1\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2673, in _write
+    self._server = self._get_server()
+                   ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\user\projectdhawedi\drivoplus_backend\.venv1\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2656, in _get_server
+    return self._client._select_server(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._server_selector,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        operation_id=self._operation_id,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\user\projectdhawedi\drivoplus_backend\.venv1\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1647, in _select_server
+    server = topology.select_server(
+        server_selector,
+    ...<2 lines>...
+        operation_id=operation_id,
+    )
+  File "C:\Users\user\projectdhawedi\drivoplus_backend\.venv1\Lib\site-packages\pymongo\synchronous\topology.py", line 402, in select_server
+    server = self._select_server(
+        selector,
+    ...<4 lines>...
+        operation_id=operation_id,
+    )
+  File "C:\Users\user\projectdhawedi\drivoplus_backend\.venv1\Lib\site-packages\pymongo\synchronous\topology.py", line 380, in _select_server
+    servers = self.select_servers(
+        selector, operation, server_selection_timeout, address, operation_id
+    )
+  File "C:\Users\user\projectdhawedi\drivoplus_backend\.venv1\Lib\site-packages\pymongo\synchronous\topology.py", line 287, in select_servers
+    server_descriptions = self._select_servers_loop(
+        selector, server_timeout, operation, operation_id, address
+    )
+  File "C:\Users\user\projectdhawedi\drivoplus_backend\.venv1\Lib\site-packages\pymongo\synchronous\topology.py", line 337, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+        f"{self._error_message(selector)}, Timeout: {timeout}s, Topology Description: {self.description!r}"
+    )
+pymongo.errors.ServerSelectionTimeoutError: cluster0-shard-00-00.dsb09.mongodb.net:27017: [Errno 11001] getaddrinfo failed (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),cluster0-shard-00-01.dsb09.mongodb.net:27017: [Errno 11001] getaddrinfo failed (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),cluster0-shard-00-02.dsb09.mongodb.net:27017: [Errno 11001] getaddrinfo failed (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67b33f7a2bc0b0c3032e026b, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('cluster0-shard-00-00.dsb09.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('cluster0-shard-00-00.dsb09.mongodb.net:27017: [Errno 11001] getaddrinfo failed (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('cluster0-shard-00-01.dsb09.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('cluster0-shard-00-01.dsb09.mongodb.net:27017: [Errno 11001] getaddrinfo failed (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('cluster0-shard-00-02.dsb09.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('cluster0-shard-00-02.dsb09.mongodb.net:27017: [Errno 11001] getaddrinfo failed (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-02-17 15:42:14,651 - apscheduler.scheduler - INFO - Added job "67b34ac62bc0b0c3032e026f" to job store "default"
+2025-02-17 15:42:14,651 - root - INFO - USER SIGNED IN
+2025-02-17 15:42:14,652 - werkzeug - INFO - 127.0.0.1 - - [17/Feb/2025 15:42:14] "POST /auth/signup HTTP/1.1" 200 -
+2025-02-17 15:42:36,954 - root - INFO - User Confirm his Account
+2025-02-17 15:42:36,954 - werkzeug - INFO - 127.0.0.1 - - [17/Feb/2025 15:42:36] "POST /auth/confirm HTTP/1.1" 200 -
+2025-02-17 15:43:15,010 - werkzeug - INFO - 127.0.0.1 - - [17/Feb/2025 15:43:15] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-17 15:43:19,085 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-17 15:43:20,109 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-17 15:43:20,210 - werkzeug - INFO - 127.0.0.1 - - [17/Feb/2025 15:43:20] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-17 15:44:04,679 - werkzeug - INFO - 127.0.0.1 - - [17/Feb/2025 15:44:04] "[32mPUT /user HTTP/1.1[0m" 308 -
+2025-02-17 15:44:04,850 - werkzeug - INFO - 127.0.0.1 - - [17/Feb/2025 15:44:04] "PUT /user/ HTTP/1.1" 200 -
+2025-02-17 15:45:39,749 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-17 15:45:43,724 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-17 15:45:43,827 - werkzeug - INFO - 127.0.0.1 - - [17/Feb/2025 15:45:43] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-17 15:45:44,374 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-17 15:45:45,365 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-17 15:45:45,466 - werkzeug - INFO - 127.0.0.1 - - [17/Feb/2025 15:45:45] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-17 15:46:15,970 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-17 15:46:16,899 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-17 15:46:16,981 - werkzeug - INFO - 127.0.0.1 - - [17/Feb/2025 15:46:16] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-17 15:47:44,276 - apscheduler.scheduler - INFO - Added job "67b34c102bc0b0c3032e0271" to job store "default"
+2025-02-17 15:47:44,276 - root - INFO - USER SIGNED IN
+2025-02-17 15:47:44,277 - werkzeug - INFO - 127.0.0.1 - - [17/Feb/2025 15:47:44] "POST /auth/signup HTTP/1.1" 200 -
+2025-02-17 15:48:00,109 - root - INFO - User Confirm his Account
+2025-02-17 15:48:00,109 - werkzeug - INFO - 127.0.0.1 - - [17/Feb/2025 15:48:00] "POST /auth/confirm HTTP/1.1" 200 -
+2025-02-17 15:50:41,731 - werkzeug - INFO - 127.0.0.1 - - [17/Feb/2025 15:50:41] "POST /auth/signin HTTP/1.1" 200 -
+2025-02-17 15:50:43,923 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-17 15:50:44,882 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-17 15:50:44,977 - werkzeug - INFO - 127.0.0.1 - - [17/Feb/2025 15:50:44] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-17 15:54:01,971 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-17 15:54:05,909 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-17 15:54:06,016 - werkzeug - INFO - 127.0.0.1 - - [17/Feb/2025 15:54:06] "POST /payment/create-payment-intent HTTP/1.1" 200 -
+2025-02-17 15:54:55,714 - stripe - INFO - message='Request to Stripe api' method=post url=https://api.stripe.com/v1/payment_intents
+2025-02-17 15:54:56,669 - stripe - INFO - message='Stripe API response' path=https://api.stripe.com/v1/payment_intents response_code=200
+2025-02-17 15:54:56,771 - werkzeug - INFO - 127.0.0.1 - - [17/Feb/2025 15:54:56] "POST /payment/create-payment-intent HTTP/1.1" 200 -

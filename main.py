@@ -1,7 +1,7 @@
 import json
 import logging
 from http import HTTPStatus
-
+from controllers.PaymentController import payment_blueprint
 from services import configJWT
 from controllers.AuthController import auth_blueprint
 from flask import Flask
@@ -63,6 +63,5 @@ def handle_exception(e: DuplicateKeyError):
     }, HTTPStatus.CONFLICT
 
 
-
-
-
+# Ajouter la route Stripe
+app.register_blueprint(payment_blueprint, url_prefix='/payment')
