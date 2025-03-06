@@ -1,7 +1,7 @@
 import json
 import logging
 from http import HTTPStatus
-
+from controllers.PaymentController import payment_blueprint
 from services import configJWT
 from controllers.AuthController import auth_blueprint
 from flask import Flask
@@ -10,6 +10,7 @@ from werkzeug.exceptions import HTTPException
 from config import CONFIG, mailer, scheduler, log_formatter
 from controllers.UserController import user_blueprint
 from database import databaseInstance, user_indexes
+from controllers.NotificationController import notification_bp
 
 app = Flask(__name__)
 app.config['JWT_SECRET_KEY'] = CONFIG['JWT_SECRET_KEY']
@@ -35,6 +36,9 @@ with app.app_context():
 
 app.register_blueprint(user_blueprint, url_prefix='/user')
 app.register_blueprint(auth_blueprint, url_prefix='/auth')
+
+# Enregistrer le blueprint des notifications
+app.register_blueprint(notification_bp, url_prefix='/notifications')
 
 
 @app.errorhandler(HTTPException)
@@ -63,6 +67,5 @@ def handle_exception(e: DuplicateKeyError):
     }, HTTPStatus.CONFLICT
 
 
-
-
-
+# Ajouter la route Stripe
+app.register_blueprint(payment_blueprint, url_prefix='/payment')
