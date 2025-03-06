@@ -2,7 +2,8 @@
 .vscode/
 .idea/
 
-
+.log
+__init__.py
 *.pyc
 
 
