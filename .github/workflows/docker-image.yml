@@ -18,13 +18,13 @@ jobs:
       - name: Log in to Docker Hub
         uses: docker/login-action@v3  
         with:
-          username: ${{ secrets.DOCKER_USER_NAME }}
-          password: ${{ secrets.DOCKER_TOKEN }}
+          username: ${{ secrets.DOCKER_USERNAME }}
+          password: ${{ secrets.DOCKER_PASSWORD }}
 
       - name:  Build Docker Image
         run: |
-          docker build -t ${{ secrets.DOCKER_USER_NAME }}/ai_service:latest .
+          docker build -t ${{ secrets.DOCKER_USERNAME }}/drivo_plus_web:latest .
 
       - name:  Tag and Push Docker Image
         run: |
-          docker push ${{ secrets.DOCKER_USER_NAME }}/ai_service:latest
+          docker push ${{ secrets.DOCKER_USERNAME }}/drivo_plus_web:latest
