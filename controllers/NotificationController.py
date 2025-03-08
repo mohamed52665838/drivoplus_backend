@@ -23,12 +23,25 @@ def send_push_notification(token, message):
     response = requests.post(EXPO_PUSH_URL, json=payload, headers=headers)
     return response.json()
 
+
+
+
 @notification_bp.route('/send_notification', methods=['POST'])
 def send_notification():
+    """
+        @data:
+            -token: str
+            -category: enum(distraction_alert, physical_alert, mental_alert)
+            -user_id
+    """
     data = request.json
     token = data.get('token')
     category = data.get('category')
 
+    print(data)
+    print(token) 
+    print(category) 
+    print(data.get('user_id'))
     if not token or not category:
         return jsonify({"error": "Token and category are required"}), 400
 
