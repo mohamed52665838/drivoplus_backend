@@ -5,6 +5,10 @@ from database import databaseInstance
 import requests
 import json
 
+
+
+# This only for test
+
 notification_bp = Blueprint('notification', __name__)
 
 EXPO_PUSH_URL = "https://exp.host/--/api/v2/push/send"
@@ -22,9 +26,6 @@ def send_push_notification(token, message):
 
     response = requests.post(EXPO_PUSH_URL, json=payload, headers=headers)
     return response.json()
-
-
-
 
 @notification_bp.route('/send_notification', methods=['POST'])
 def send_notification():
