@@ -21,7 +21,8 @@ app.config["MAIL_USE_TLS"] = True
 app.config["MAIL_USERNAME"] = CONFIG['MAILER_USERNAME']
 app.config["MAIL_PASSWORD"] = CONFIG['MAILER_PASSWORD']
 app.config["MAIL_DEFAULT_SENDER"] = CONFIG['MAILER_USERNAME']
-
+#kima dictionaire bich mthln configJWT tkra mino
+#lezem ybdw 3ndhom 3elm bil app kima initialisation bich kn skrt hwka ytsker app ...
 databaseInstance.init_app(app=app,uri=CONFIG['DATABASE_URL'] )
 configJWT.init_app(app)
 mailer.init_app(app)
@@ -34,6 +35,7 @@ with app.app_context():
     user_indexes()
     logging.info("APPLICATION STARTED TEST")
 
+#trod 5edma modulaire imchi ili mwjoudin userblueprint o zidhom /user f url 
 app.register_blueprint(user_blueprint, url_prefix='/user')
 app.register_blueprint(auth_blueprint, url_prefix='/auth')
 
@@ -41,6 +43,7 @@ app.register_blueprint(auth_blueprint, url_prefix='/auth')
 app.register_blueprint(notification_bp, url_prefix='/notifications')
 
 
+#kain saret exception 
 @app.errorhandler(HTTPException)
 def handle_exception(e):
     """Return JSON instead of HTML for HTTP errors."""
@@ -56,6 +59,7 @@ def handle_exception(e):
     response.content_type = "application/json"
     return response
 
+#kain user deja mwjoud 
 @app.errorhandler(DuplicateKeyError)
 def handle_exception(e: DuplicateKeyError):
     """Return JSON instead of HTML for HTTP errors."""

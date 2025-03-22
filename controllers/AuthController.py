@@ -34,6 +34,7 @@ def signup_user(body: UserSignUpDto):
     user_collection = databaseInstance.db.get_collection(Collections.USER)
     body.timestamp_snapshot()
     body.password = hash_password(body.password).decode()
+    #inserer utilisateur dans base
     res = user_collection.insert_one(body.model_dump())
     assert res.inserted_id is not None
     user = user_collection.find_one({UserCollection.USERNAME: body.username})
