@@ -1,7 +1,11 @@
 import json
 import logging
 from http import HTTPStatus
+
+from flasgger import Swagger
+
 from controllers.PaymentController import payment_blueprint
+from schemas.root_schema import swagger_template
 from services import configJWT
 from controllers.AuthController import auth_blueprint
 from flask import Flask
@@ -21,9 +25,8 @@ app.config["MAIL_USE_TLS"] = True
 app.config["MAIL_USERNAME"] = CONFIG['MAILER_USERNAME']
 app.config["MAIL_PASSWORD"] = CONFIG['MAILER_PASSWORD']
 app.config["MAIL_DEFAULT_SENDER"] = CONFIG['MAILER_USERNAME']
-#kima dictionaire bich mthln configJWT tkra mino
-#lezem ybdw 3ndhom 3elm bil app kima initialisation bich kn skrt hwka ytsker app ...
 databaseInstance.init_app(app=app,uri=CONFIG['DATABASE_URL'] )
+swagger = Swagger(app, template=swagger_template)
 configJWT.init_app(app)
 mailer.init_app(app)
 scheduler.init_app(app)

@@ -9,6 +9,7 @@ from model.BaseModelModule import BaseModelApp
 #     phone_number: Optional[str] = None
 
 
+
 class UserSignUpDto(BaseModelApp):
     full_name: str
     phone_number: str

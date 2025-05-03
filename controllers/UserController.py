@@ -1,5 +1,7 @@
 from http import HTTPStatus
 from http.client import HTTPException
+
+from flasgger import swag_from
 from flask.blueprints import Blueprint
 from flask_jwt_extended import jwt_required, get_jwt_identity
 from flask_pydantic import validate
@@ -14,6 +16,34 @@ from database import databaseInstance, timestamp_helper_projection
 
 
 @user_blueprint.get('/who_ami')
+@swag_from({
+    'tags': ['User'],
+    'summary': 'Get Current Authenticated User',
+    'description': 'Returns the current user based on the JWT token provided in the Authorization header.',
+    'security': [{'BearerAuth': []}],
+    'responses': {
+        200: {
+            'description': 'Authenticated user information',
+            'schema': {
+                'type': 'object',
+                'properties': {
+                    'email': {'type': 'string', 'example': 'user@example.com'},
+                    'username': {'type': 'string', 'example': 'john_doe'},
+                    # add more fields as returned by `bson_to_json`
+                }
+            }
+        },
+        500: {
+            'description': 'Internal server error',
+            'schema': {
+                'type': 'object',
+                'properties': {
+                    'message': {'type': 'string', 'example': 'something went wrong'}
+                }
+            }
+        }
+    }
+})
 @jwt_required()
 def default_user():
     email = get_jwt_identity()
@@ -31,6 +61,49 @@ def goback():
 
 @user_blueprint.put('/')
 @validate()
+@swag_from({
+    'tags': ['User'],
+    'summary': 'Update Authenticated User Profile',
+    'description': 'Allows the authenticated user to update their full name and phone number.',
+    'security': [{'BearerAuth': []}],
+    'parameters': [
+        {
+            'name': 'body',
+            'in': 'body',
+            'required': True,
+            'schema': {
+                'type': 'object',
+                'properties': {
+                    'full_name': {'type': 'string', 'example': 'John Doe'},
+                    'phone_number': {'type': 'string', 'example': '+1234567890'}
+                },
+                'required': ['full_name', 'phone_number']
+            }
+        }
+    ],
+    'responses': {
+        200: {
+            'description': 'Updated user object',
+            'schema': {
+                'type': 'object',
+                'properties': {
+                    'email': {'type': 'string', 'example': 'john@example.com'},
+                    'full_name': {'type': 'string', 'example': 'John Doe'},
+                    'phone_number': {'type': 'string', 'example': '+1234567890'}
+                }
+            }
+        },
+        500: {
+            'description': 'Internal server error',
+            'schema': {
+                'type': 'object',
+                'properties': {
+                    'message': {'type': 'string', 'example': 'something went wrong'}
+                }
+            }
+        }
+    }
+})
 @jwt_required()
 def update_user(body: UpdateUserModel):
     email = get_jwt_identity()

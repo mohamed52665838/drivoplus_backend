@@ -1,5 +1,7 @@
 import stripe
 import os
+
+from flasgger import swag_from
 from flask import Blueprint, request, jsonify
 from dotenv import load_dotenv
 from database import databaseInstance
@@ -16,6 +18,70 @@ stripe.api_key = STRIPE_SECRET_KEY
 payment_blueprint = Blueprint('payment', __name__)
 
 @payment_blueprint.route("/create-payment-intent", methods=["POST"])
+@swag_from({
+    'tags': ['Payments'],
+    'summary': 'Create a Stripe PaymentIntent',
+    'description': 'Creates a Stripe PaymentIntent and optionally activates premium access for the user.',
+    'parameters': [
+        {
+            'name': 'body',
+            'in': 'body',
+            'required': True,
+            'schema': {
+                'type': 'object',
+                'properties': {
+                    'amount': {
+                        'type': 'integer',
+                        'example': 1000,
+                        'description': 'Amount in cents (e.g., 10€ = 1000)'
+                    },
+                    'currency': {
+                        'type': 'string',
+                        'default': 'usd',
+                        'example': 'usd',
+                        'description': 'Currency code (e.g., usd, eur)'
+                    },
+                    'email': {
+                        'type': 'string',
+                        'example': 'user@example.com',
+                        'description': 'User email for receipt and account updates'
+                    }
+                },
+                'required': ['amount']
+            }
+        }
+    ],
+    'responses': {
+        200: {
+            'description': 'PaymentIntent created successfully',
+            'schema': {
+                'type': 'object',
+                'properties': {
+                    'message': {
+                        'type': 'string',
+                        'example': 'PaymentIntent créé avec succès ✅'
+                    },
+                    'clientSecret': {
+                        'type': 'string',
+                        'example': 'pi_1ExAmPlESeCrEt_key'
+                    }
+                }
+            }
+        },
+        400: {
+            'description': 'Bad request or Stripe error',
+            'schema': {
+                'type': 'object',
+                'properties': {
+                    'error': {
+                        'type': 'string',
+                        'example': 'Missing amount or invalid Stripe credentials'
+                    }
+                }
+            }
+        }
+    }
+})
 def create_payment():
     try:
         data = request.json

@@ -5,5 +5,7 @@
 *.log
 __init__.py
 *.pyc
-
+.zed
+.venv
+pyrightconfig.json
 
