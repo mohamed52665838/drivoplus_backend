@@ -17,11 +17,35 @@ This system depends on another microservice that provides the drowsiness detecti
 git clone https://github.com/mohamed52665838/drivoplus_backend.git
 cd drivoplus_backend
 ```
-#### Step 2: Start the System
+#### Step 2: Create .env file
+<p>
+    Create the .env file at the root of the project to ensure proper system setup. <br>
+    <b>Note:</b> The .env file contains sensitive project secrets and should only be shared with team members.
+</p>
+
+* Example
+```bash
+DATABASE_URL=CLUSTER_URI
+DrivoPlus?retryWrites=true|false&w=x&appName=APP_NAME'
+DATABASE_NAME='DRIVO+'
+HOST_NAME=HOSTNAME|IP
+PORT_NUMBER=SYSTEM_PORT_NUMBER
+JWT_SECRET_KEY=JWT_SECRET_KEY
+MAILER_SERVER=SMTP_SERVER
+MAILER_PORT=PORT_SMTP
+MAILER_USE_TLS=1
+MAILER_USERNAME=MAILER_USERNAME
+MAILER_PASSWORD=MAILER_PASSWORD
+DROWSINESS_SERVICE_PORT=DROWSINESS_SERVICE_PORT [5643]
+
+```
+
+
+#### Step 3: Start the System
 ```bash
 docker compose up
 ```
-#### Step 3: That’s It
+#### Step 4: That’s It
 Everything is now up and running.
 
 
